@@ -1,0 +1,2 @@
+# Best-WordPress-Theme
+Best is a professional, fast, easy-to-use and multipurpose theme. It is beautifully styled, and has an awesome design. In spite of the number of great opportunities, Best theme may seem simple, yet its simplicity brings clarity, sense of balance, and looks really great. Best is a multipurpose theme, which will be useful for a variety of websites such as daily news, news magazines, network sites, etc.
