@@ -1,0 +1,284 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Best\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-29 17:36+0300\n"
+"PO-Revision-Date: 2015-01-13 14:27+0300\n"
+"Last-Translator: BestWebSoft <info@bestwebsoft.com>\n"
+"Language-Team: bestwebsoft.com <wp_theme@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../single.php:16 ../image.php:16 ../search.php:22 ../index.php:17
+#: ../page.php:16 ../archive.php:26
+msgid "posted on"
+msgstr "опубликованы на"
+
+#: ../single.php:18 ../functions.php:146 ../functions.php:148
+#: ../functions.php:150 ../search.php:26 ../index.php:21 ../page.php:18
+#: ../archive.php:30
+msgid "by"
+msgstr "от"
+
+#: ../single.php:20 ../image.php:24 ../search.php:28 ../index.php:23
+#: ../page.php:20 ../archive.php:32
+msgid "in"
+msgstr "в"
+
+#: ../single.php:22 ../image.php:28 ../search.php:30 ../index.php:25
+#: ../page.php:22 ../archive.php:34
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../single.php:35 ../image.php:78 ../index.php:38 ../page.php:35
+#: ../archive.php:47
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../single.php:50
+msgid "Older post"
+msgstr "Предыдущий пост"
+
+#: ../single.php:53
+msgid "Newer post"
+msgstr "Следующий пост"
+
+#: ../header.php:43
+msgid "Menu"
+msgstr "Меню"
+
+#: ../header.php:45
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+# Permalink to
+#: ../image.php:14 ../search.php:20 ../index.php:15 ../archive.php:24
+msgid "Permalink to"
+msgstr "Пермалинк на"
+
+#: ../image.php:20
+msgid "Size"
+msgstr "Размер"
+
+#: ../image.php:25
+msgid "Return to"
+msgstr "Вернуться к"
+
+#: ../image.php:94
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: ../image.php:95
+msgid "Next"
+msgstr "Следующий"
+
+#: ../functions.php:64
+msgid "Header Menu"
+msgstr "Меню в хедере"
+
+#: ../functions.php:71
+msgid "Home Right Sidebar"
+msgstr "Правый сайдбар на домашней странице"
+
+#: ../functions.php:82
+msgid "Footer Sidebar"
+msgstr "Сайдбар в футере"
+
+#: ../functions.php:101
+msgid "Choose file"
+msgstr "Выберите файл"
+
+#: ../functions.php:102
+msgid "File is not selected"
+msgstr "Файл не выбран"
+
+#: ../functions.php:122
+msgid "Page"
+msgstr "Страница"
+
+#: ../functions.php:141
+msgid "View all posts by"
+msgstr "Посмотреть все сообщения"
+
+#: ../functions.php:146 ../functions.php:148 ../functions.php:150
+msgid "This entry was posted in"
+msgstr "Эта запись была опубликована в"
+
+#: ../functions.php:146
+msgid "and tagged"
+msgstr "и отмечена"
+
+#: ../functions.php:146
+msgid "on"
+msgstr "на"
+
+#: ../functions.php:169 ../functions.php:194 ../functions.php:213
+#: ../functions.php:270
+msgid "Page "
+msgstr "Страница"
+
+#: ../functions.php:173
+msgid "Category Archives"
+msgstr "Архивы Категорий"
+
+#: ../functions.php:179
+msgid "Tag Archives"
+msgstr "Архивы тегов"
+
+#: ../functions.php:181 ../functions.php:183 ../functions.php:185
+msgid "Archive for"
+msgstr "Архив для"
+
+#: ../functions.php:187
+msgid "Author&#8217;s Archive"
+msgstr "Архив Автора"
+
+#: ../functions.php:189 ../functions.php:259
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: ../functions.php:191 ../functions.php:261
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: ../functions.php:198
+msgid "Home"
+msgstr "Домашняя"
+
+#: ../functions.php:279
+msgid "Posts"
+msgstr "Посты"
+
+#: ../functions.php:300
+msgid "More Link"
+msgstr "Больше"
+
+#: ../404.php:12
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: ../404.php:16
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: ../404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Это несколько неудобно, не так ли?"
+
+# The page you are looking for is not found. Maybe try a search?
+#: ../404.php:18 ../index.php:69 ../archive.php:71
+msgid "The page you are looking for is not found. Maybe try a search?"
+msgstr "Запрашиваемая страница не найдена. Попробуйте воспользоваться поиском."
+
+#: ../search.php:13 ../search.php:59
+msgid "Search Results for"
+msgstr "Результаты поиска для"
+
+#: ../search.php:51 ../index.php:54 ../page.php:45 ../archive.php:63
+msgid "Previous posts"
+msgstr "Предыдущие"
+
+# Previous posts
+#: ../search.php:54 ../index.php:57 ../page.php:48 ../archive.php:66
+msgid "Next posts"
+msgstr "Следующие"
+
+# Sorry, but nothing matches your search terms. Please try again using different keywords.
+#: ../search.php:61 ../index.php:66
+msgid ""
+"Sorry, but nothing matches your search terms. Please try again using "
+"different keywords."
+msgstr ""
+"Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые "
+"слова."
+
+#: ../footer.php:21
+msgid "Designed with love by"
+msgstr "Разработан с любовью"
+
+#: ../footer.php:21
+msgid "and"
+msgstr "и"
+
+#: ../index.php:64
+msgid "Ready to publish your first post?"
+msgstr "Вы готовы опубликовать первый пост?"
+
+#: ../index.php:64
+msgid "Get started here"
+msgstr "Начать здесь"
+
+#: ../comments.php:21
+msgid "One thought on"
+msgstr "Один комментарий к"
+
+#: ../comments.php:21
+msgid "thoughts on"
+msgstr "комментариев к"
+
+#: ../comments.php:33
+msgid "Comment navigation"
+msgstr "Навигация Комментариев "
+
+#: ../comments.php:34
+msgid "Older Comments"
+msgstr "Предыдущие Комментарии"
+
+#: ../comments.php:35
+msgid "Newer Comments"
+msgstr "Следующие Комментарии"
+
+#: ../comments.php:40
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: ../searchform.php:8
+msgid "Enter search keyword"
+msgstr "Введите ключевое слово для поиска"
+
+# Next posts
+#, fuzzy
+#~ msgid "Older posts"
+#~ msgstr "Предыдущие посты"
+
+# The page you are looking for is not found. Maybe try a search?
+#, fuzzy
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "Запрашиваемая страница не найдена. Попробуйте воспользоваться поиском. "
+
+#~ msgid "Executor Profile"
+#~ msgstr "Исполнитель профиля"
+
+#~ msgid "Read more"
+#~ msgstr "Далее"
+
+#~ msgid "View all posts in %s"
+#~ msgstr "Все сообщения от %s"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Начальное Меню"
+
+#~ msgid "Archive for &thinsp;"
+#~ msgstr "Архив для "
+
+#~ msgid "404 Page"
+#~ msgstr "Страница 404"
+
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgid "Continue reading"
+#~ msgstr "Продолжить"
