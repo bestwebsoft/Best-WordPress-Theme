@@ -3,7 +3,7 @@
  * The template for displaying 404 pages (Not Found)
  *
  * @subpackage Best
- * @since Best 1.0
+ * @since      Best 1.0
  */
 get_header(); ?>
 	<article class="best-contents">
@@ -21,5 +21,5 @@ get_header(); ?>
 			</div><!-- .page-wrapper -->
 		</div><!-- #content -->
 	</article><!-- .best-contents -->
-<?php get_sidebar(); 
+<?php get_sidebar();
 get_footer();

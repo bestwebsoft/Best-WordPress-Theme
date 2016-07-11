@@ -4,164 +4,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Best\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-12-29 17:36+0300\n"
-"PO-Revision-Date: 2015-01-13 14:27+0300\n"
+"POT-Creation-Date: 2016-07-11 15:48+0300\n"
+"PO-Revision-Date: 2016-07-11 15:48+0300\n"
 "Last-Translator: BestWebSoft <info@bestwebsoft.com>\n"
 "Language-Team: bestwebsoft.com <wp_theme@bestwebsoft.com>\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_nx:1,2,4c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.8.4\n"
 "X-Poedit-SearchPath-0: ..\n"
-
-#: ../single.php:16 ../image.php:16 ../search.php:22 ../index.php:17
-#: ../page.php:16 ../archive.php:26
-msgid "posted on"
-msgstr "опубликованы на"
-
-#: ../single.php:18 ../functions.php:146 ../functions.php:148
-#: ../functions.php:150 ../search.php:26 ../index.php:21 ../page.php:18
-#: ../archive.php:30
-msgid "by"
-msgstr "от"
-
-#: ../single.php:20 ../image.php:24 ../search.php:28 ../index.php:23
-#: ../page.php:20 ../archive.php:32
-msgid "in"
-msgstr "в"
-
-#: ../single.php:22 ../image.php:28 ../search.php:30 ../index.php:25
-#: ../page.php:22 ../archive.php:34
-msgid "Edit"
-msgstr "Редактировать"
-
-#: ../single.php:35 ../image.php:78 ../index.php:38 ../page.php:35
-#: ../archive.php:47
-msgid "Pages"
-msgstr "Страницы"
-
-#: ../single.php:50
-msgid "Older post"
-msgstr "Предыдущий пост"
-
-#: ../single.php:53
-msgid "Newer post"
-msgstr "Следующий пост"
-
-#: ../header.php:43
-msgid "Menu"
-msgstr "Меню"
-
-#: ../header.php:45
-msgid "Skip to content"
-msgstr "Перейти к содержимому"
-
-# Permalink to
-#: ../image.php:14 ../search.php:20 ../index.php:15 ../archive.php:24
-msgid "Permalink to"
-msgstr "Пермалинк на"
-
-#: ../image.php:20
-msgid "Size"
-msgstr "Размер"
-
-#: ../image.php:25
-msgid "Return to"
-msgstr "Вернуться к"
-
-#: ../image.php:94
-msgid "Previous"
-msgstr "Предыдущий"
-
-#: ../image.php:95
-msgid "Next"
-msgstr "Следующий"
-
-#: ../functions.php:64
-msgid "Header Menu"
-msgstr "Меню в хедере"
-
-#: ../functions.php:71
-msgid "Home Right Sidebar"
-msgstr "Правый сайдбар на домашней странице"
-
-#: ../functions.php:82
-msgid "Footer Sidebar"
-msgstr "Сайдбар в футере"
-
-#: ../functions.php:101
-msgid "Choose file"
-msgstr "Выберите файл"
-
-#: ../functions.php:102
-msgid "File is not selected"
-msgstr "Файл не выбран"
-
-#: ../functions.php:122
-msgid "Page"
-msgstr "Страница"
-
-#: ../functions.php:141
-msgid "View all posts by"
-msgstr "Посмотреть все сообщения"
-
-#: ../functions.php:146 ../functions.php:148 ../functions.php:150
-msgid "This entry was posted in"
-msgstr "Эта запись была опубликована в"
-
-#: ../functions.php:146
-msgid "and tagged"
-msgstr "и отмечена"
-
-#: ../functions.php:146
-msgid "on"
-msgstr "на"
-
-#: ../functions.php:169 ../functions.php:194 ../functions.php:213
-#: ../functions.php:270
-msgid "Page "
-msgstr "Страница"
-
-#: ../functions.php:173
-msgid "Category Archives"
-msgstr "Архивы Категорий"
-
-#: ../functions.php:179
-msgid "Tag Archives"
-msgstr "Архивы тегов"
-
-#: ../functions.php:181 ../functions.php:183 ../functions.php:185
-msgid "Archive for"
-msgstr "Архив для"
-
-#: ../functions.php:187
-msgid "Author&#8217;s Archive"
-msgstr "Архив Автора"
-
-#: ../functions.php:189 ../functions.php:259
-msgid "Search Results"
-msgstr "Результаты поиска"
-
-#: ../functions.php:191 ../functions.php:261
-msgid "Page not found"
-msgstr "Страница не найдена"
-
-#: ../functions.php:198
-msgid "Home"
-msgstr "Домашняя"
-
-#: ../functions.php:279
-msgid "Posts"
-msgstr "Посты"
-
-#: ../functions.php:300
-msgid "More Link"
-msgstr "Больше"
 
 #: ../404.php:12
 msgid "Not Found"
@@ -175,60 +33,58 @@ msgstr "Ошибка 404"
 msgid "This is somewhat embarrassing, isn&rsquo;t it?"
 msgstr "Это несколько неудобно, не так ли?"
 
-# The page you are looking for is not found. Maybe try a search?
-#: ../404.php:18 ../index.php:69 ../archive.php:71
+#: ../404.php:18 ../archive.php:73 ../index.php:71
 msgid "The page you are looking for is not found. Maybe try a search?"
 msgstr "Запрашиваемая страница не найдена. Попробуйте воспользоваться поиском."
 
-#: ../search.php:13 ../search.php:59
-msgid "Search Results for"
-msgstr "Результаты поиска для"
+#: ../archive.php:25 ../image.php:15 ../index.php:16 ../search.php:21
+msgid "Permalink to "
+msgstr "Ссылка на "
 
-#: ../search.php:51 ../index.php:54 ../page.php:45 ../archive.php:63
+#: ../archive.php:28 ../image.php:18 ../index.php:19 ../page.php:16
+#: ../search.php:24 ../single.php:16
+msgid "posted on"
+msgstr "опубликовано"
+
+#: ../archive.php:32 ../index.php:23 ../page.php:18 ../search.php:28
+#: ../single.php:18
+msgid "by"
+msgstr "автор"
+
+#: ../archive.php:35 ../image.php:27 ../index.php:26 ../search.php:31
+#: ../single.php:21
+msgid "in"
+msgstr "в"
+
+#: ../archive.php:38 ../image.php:32 ../index.php:29 ../page.php:20
+#: ../search.php:34 ../single.php:24
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../archive.php:50 ../image.php:78 ../index.php:41 ../page.php:32
+#: ../single.php:36
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../archive.php:65 ../index.php:56 ../page.php:41 ../search.php:55
 msgid "Previous posts"
-msgstr "Предыдущие"
+msgstr "Предыдущие записи"
 
-# Previous posts
-#: ../search.php:54 ../index.php:57 ../page.php:48 ../archive.php:66
+#: ../archive.php:68 ../index.php:59 ../page.php:44 ../search.php:58
 msgid "Next posts"
-msgstr "Следующие"
-
-# Sorry, but nothing matches your search terms. Please try again using different keywords.
-#: ../search.php:61 ../index.php:66
-msgid ""
-"Sorry, but nothing matches your search terms. Please try again using "
-"different keywords."
-msgstr ""
-"Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые "
-"слова."
-
-#: ../footer.php:21
-msgid "Designed with love by"
-msgstr "Разработан с любовью"
-
-#: ../footer.php:21
-msgid "and"
-msgstr "и"
-
-#: ../index.php:64
-msgid "Ready to publish your first post?"
-msgstr "Вы готовы опубликовать первый пост?"
-
-#: ../index.php:64
-msgid "Get started here"
-msgstr "Начать здесь"
+msgstr "Следующие записи"
 
 #: ../comments.php:21
-msgid "One thought on"
-msgstr "Один комментарий к"
-
-#: ../comments.php:21
-msgid "thoughts on"
-msgstr "комментариев к"
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
 
 #: ../comments.php:33
 msgid "Comment navigation"
-msgstr "Навигация Комментариев "
+msgstr "Навигация по комментариям"
 
 #: ../comments.php:34
 msgid "Older Comments"
@@ -242,9 +98,155 @@ msgstr "Следующие Комментарии"
 msgid "Comments are closed."
 msgstr "Комментирование закрыто."
 
-#: ../searchform.php:8
+#: ../footer.php:21
+msgid "Designed with love by"
+msgstr "Разработан с любовью"
+
+#: ../footer.php:22
+msgid "and"
+msgstr "и"
+
+#: ../functions.php:65
+msgid "Header Menu"
+msgstr "Меню в хедере"
+
+#: ../functions.php:73
+msgid "Home Right Sidebar"
+msgstr "Правый сайдбар на домашней странице"
+
+#: ../functions.php:84
+msgid "Footer Sidebar"
+msgstr "Сайдбар в футере"
+
+#: ../functions.php:106
+msgid "Choose file"
+msgstr "Выберите файл"
+
+#: ../functions.php:107
+msgid "File is not selected"
+msgstr "Файл не выбран"
+
+#: ../functions.php:122 ../functions.php:152 ../functions.php:173
+#: ../functions.php:235
+msgid "Page "
+msgstr "Страница"
+
+#: ../functions.php:127
+msgid "Category Archives"
+msgstr "Архивы Категорий"
+
+#: ../functions.php:133
+msgid "Tag Archives"
+msgstr "Архив метки"
+
+#: ../functions.php:135 ../functions.php:138 ../functions.php:141
+msgid "Archive for"
+msgstr "Архив для"
+
+#: ../functions.php:144
+msgid "Author&#8217;s Archive"
+msgstr "Архив Автора"
+
+#: ../functions.php:147 ../functions.php:224
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: ../functions.php:149 ../functions.php:226
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: ../functions.php:157
+msgid "Home"
+msgstr "Главная"
+
+#: ../functions.php:244
+#, php-format
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s Пост"
+msgstr[1] "%s Поста"
+msgstr[2] "%s Постов"
+
+#: ../functions.php:269
+msgid "More Link"
+msgstr "Больше"
+
+#: ../header.php:43
+msgid "Menu"
+msgstr "Меню"
+
+#: ../header.php:45
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: ../image.php:22
+msgid "Size"
+msgstr "Размер"
+
+#: ../image.php:28
+msgid "Return to"
+msgstr "Вернуться к"
+
+#: ../image.php:93
+msgid "Previous"
+msgstr "Предыдущее изображение"
+
+#: ../image.php:94
+msgid "Next"
+msgstr "Следующее изображение"
+
+#: ../index.php:66
+msgid "Ready to publish your first post?"
+msgstr "Вы готовы опубликовать первый пост?"
+
+#: ../index.php:66
+msgid "Get started here"
+msgstr "Начать здесь"
+
+#: ../index.php:68 ../search.php:66
+msgid ""
+"Sorry, but nothing matches your search terms. Please try again using "
+"different keywords."
+msgstr ""
+"Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые "
+"слова."
+
+#: ../search.php:13 ../search.php:64
+msgid "Search Results for"
+msgstr "Результаты поиска для"
+
+#: ../searchform.php:9
 msgid "Enter search keyword"
-msgstr "Введите ключевое слово для поиска"
+msgstr "Введите поисковое слово"
+
+#: ../single.php:50
+msgid "Older post"
+msgstr "Предыдущая запись"
+
+#: ../single.php:53
+msgid "Newer post"
+msgstr "Следующая запись"
+
+#~ msgid "Page"
+#~ msgstr "Страница"
+
+#~ msgid "View all posts by"
+#~ msgstr "Посмотреть все сообщения"
+
+#~ msgid "This entry was posted in"
+#~ msgstr "Эта запись была опубликована в"
+
+#~ msgid "and tagged"
+#~ msgstr "и отмечена"
+
+#~ msgid "on"
+#~ msgstr "на"
+
+#~ msgid "One thought on"
+#~ msgstr "Один комментарий к"
+
+#~ msgid "thoughts on"
+#~ msgstr "комментариев к"
 
 # Next posts
 #, fuzzy
