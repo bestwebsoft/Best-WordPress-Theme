@@ -3,7 +3,7 @@
 
 Best is a professional, fast, easy-to-use and multipurpose theme. It is beautifully styled, and has an awesome design. In spite of the number of great opportunities, Best theme may seem simple, yet its simplicity brings clarity, sense of balance, and looks really great. Best is a multipurpose theme, which will be useful for a variety of websites such as daily news, news magazines, network sites, etc.
 
-<img src="http://bestwebsoft.com/wp-content/uploads/2015/01/xbest-wp-banner.jpg.pagespeed.ic.iuzbVKVNoV.jpg" />
+<img src="http://bestweblayout.com/wp-content/uploads/2015/01/best-wp-banner-588x300.jpg" />
 
 <a href="http://bestwebsoft.com/products/best/description" target=_blank>Description</a> | 
 <a href="http://bestwebsoft.com/products/best/installation" target=_blank>Installation</a> | 
