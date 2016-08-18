@@ -44,8 +44,8 @@ get_header(); ?>
 						<?php the_excerpt(); ?>
 					</article> <!-- .best-content -->
 					<footer class="best-tags">
-						<?php if ( has_tag() ) { ?>
-							<?php the_tags( '', ', ', '' );
+						<?php if ( has_tag() ) {
+							the_tags( '', ', ', '' );
 						} ?>
 					</footer> <!-- .best-tags -->
 				</section> <!-- #best-post -->

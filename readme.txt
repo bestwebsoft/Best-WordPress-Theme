@@ -4,8 +4,8 @@ Author URI: http://bestweblayout.com/
 Donate link: http://bestwebsoft.com/donate/
 Tags: two-columns, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, sticky-post, threaded-comments, translation-readyRequires at least: 3.7
 Requires at least: 4.2
-Tested up to: 4.5.3
-Stable tag: 1.3
+Tested up to: 4.6
+Stable tag: 1.4
 License: GNU General Public License V3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Best WordPress Theme, Copyright 2016 BestWebLayout.com
@@ -109,6 +109,9 @@ In the main catalog of your WordPress site, please find wp-config.php file, open
 
 == Changelog ==
 
+= V1.4 - 18.08.2016 =
+* Update : All functionality for WordPress 4.6 was updated.
+
 = V1.3 - 11.07.2016 =
 * Bugfix: Fixed mismatch coding standards.
 * Bugfix: Fixed theme styles.
@@ -134,6 +137,9 @@ In the main catalog of your WordPress site, please find wp-config.php file, open
 * Bugfix: Bug in the slider was fixed.
 
 == Upgrade Notice ==
+
+= V1.4 =
+* The compatibility with new WordPress version updated.
 
 = V1.3 =
 Fixed mismatch coding standards. Fixed theme styles. Functionality has been improved. Translations has been updated. Screenshot was updated to size 1200x900. The theme has been tested for the compatibility with WordPress v.4.5.3. Theme was transferred to new WordPress account.

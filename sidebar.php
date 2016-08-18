@@ -14,10 +14,11 @@
 			'before_widget' => '<aside class="widget wrap-widget">',
 			'after_widget'  => '</aside>',
 		);
-		the_widget( 'WP_Widget_Recent_Posts', false, $args );
-		the_widget( 'WP_Widget_Recent_Comments', false, $args );
-		the_widget( 'WP_Widget_Archives', false, $args );
-		the_widget( 'WP_Widget_Categories', false, $args );
+		$instance = array();
+		the_widget( 'WP_Widget_Recent_Posts', $instance, $args );
+		the_widget( 'WP_Widget_Recent_Comments', $instance, $args );
+		the_widget( 'WP_Widget_Archives', $instance, $args );
+		the_widget( 'WP_Widget_Categories', $instance, $args );
 	} ?>
 	<div class="best-clear"></div>
 </aside> <!-- best-sidebar -->

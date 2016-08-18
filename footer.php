@@ -20,8 +20,8 @@
 			<footer class="best-footer-logo-content-by">
 				<p><?php echo __( 'Designed with love by', 'best' ) . '&nbsp;'; ?>
 					<a href="<?php echo esc_url( wp_get_theme()->get( 'AuthorURI' ) ); ?>" target="_blank">BestWebLayout</a> <?php _e( 'and', 'best' ); ?>
-					<a href="<?php echo esc_url( 'http://wordpress.org/' ); ?>" target="_blank">WordPress</a>&nbsp;&copy;&nbsp;<?php echo date_i18n( 'Y' ) . '&nbsp;';
-					bloginfo( 'name' ); ?></p>
+					<a href="<?php echo esc_url( 'http://wordpress.org/' ); ?>" target="_blank">WordPress</a>&nbsp;&copy;&nbsp;<?php echo date_i18n( 'Y' ) . '&nbsp;' . get_bloginfo( 'name' ); ?>
+				</p>
 			</footer> <!-- best-footer-logo-content-by -->
 		</div> <!-- best-footer-logo_content -->
 		<div class="best-clear"></div>
